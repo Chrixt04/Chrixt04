@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy un egresado de Ingeniería Mecatrónica y estoy dando mis primeros pasos en el mundo de la Ciencia de Datos 🚀 
+👋 ¡Hola! Soy un Ingeniero Mecatrónico y estoy dando mis primeros pasos en el mundo de la Ciencia de Datos 🚀 
 
 Actualmente, estoy mejorando mis habilidades en programación, explorando Python, C, C++ y aprendiendo a usar github.
 
